@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+效果图如下   
+![avatar](https://images2018.cnblogs.com/blog/872412/201808/872412-20180831105241487-1679973785.gif)
 ## Build Setup
 
 ``` bash
